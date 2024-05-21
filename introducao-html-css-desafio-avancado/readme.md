@@ -4,4 +4,4 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 O figma da aplicação está disponível no [**link**](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate)
 
 ## Resultado
-![image](https://github.com/lipecalixto/desafios-rocketseat-formacao-explorer-fullstack/assets/48100023/5bed913a-556a-4773-95fe-bf5bcbfe8137)
+![image](https://github.com/lipecalixto/desafios-rocketseat-formacao-explorer-fullstack/assets/48100023/d4055da7-fb1e-4c8e-9af0-3b29e5334179)
